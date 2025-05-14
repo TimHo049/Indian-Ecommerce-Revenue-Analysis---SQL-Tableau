@@ -1,4 +1,4 @@
--- Category Performance Analysis
+-- City Performance Analysis
 SELECT 
   CASE 
     WHEN lod.Order_Date < '2018-10-01' THEN 'Before Oct 2018'
